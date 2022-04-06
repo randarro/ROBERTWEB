@@ -1,0 +1,22 @@
+﻿#bodyprincipal {background-color:#C9B770;}
+
+.body {background-color:#C9B770;}
+
+.párrafo {margin-left:300px; color:black;}
+
+#tabla {border:2; cellspacing:0; margin-left:auto; margin-right:auto;}
+
+.link {font-size:25px; margin-left:auto; margin-right:auto;}
+
+img {display:block; margin-left:auto; margin-right:auto; box-shadow: 0px 0px 60px yellow; width:480px; height:310;}
+
+.título {text-align:center; color:#373737; size:7;}
+
+#títuloprincipal {text-align:center; color:#373737; size:10;}
+
+.c2 {background-color:#C0B283;}
+
+#c0 {background-color:#373737;}
+
+ul {text-align:center; font-size:25px;}
+
