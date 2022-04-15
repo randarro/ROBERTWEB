@@ -2,7 +2,7 @@
 
 .body {background-color:#C9B770;}
 
-.párrafo {margin-left:300px; color:black;}
+.párrafo {margin-right:auto; margin-left:auto; color:black;}
 
 #tabla {border:2; cellspacing:0; margin-left:auto; margin-right:auto;}
 
